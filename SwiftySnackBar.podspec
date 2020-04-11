@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SwiftySnackBar"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.0"
   spec.summary      = "A library to show SnackBar with animation and your own custom designs."
 
   # This description is used to generate tags and improve search results.
